@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Vito
 
-<!--
-**vito514/vito514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Licenciatura en Ciencia de Datos (2º año)  
+📍 UNSAM (Universidad Nacional de San Martín)  
+📊 Interesado en Machine Learning, análisis de datos y modelos predictivos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Actualmente estoy formándome en ciencia de datos, con foco en:
+
+- Modelos de aprendizaje supervisado
+- Análisis exploratorio de datos (EDA)
+- Limpieza y procesamiento de datos
+- Visualización de datos
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** Python, R, SQL  
+- **Librerías:** pandas, numpy, scikit-learn, matplotlib, seaborn, tidyverse  
+- **Herramientas:** Jupyter Notebook, Marimo notebook, Git, GitHub  
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/vito-di-gregorio-896337278/https://www.linkedin.com/in/vito-di-gregorio-896337278/
+- Email: vitodigregorio5@gmail.com
