@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Actualmente estoy formándome en ciencia de datos, con foco en:
 
