@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre mí
+## 🚲 Sobre mí
 
 Actualmente estoy formándome en ciencia de datos, con foco en:
 
@@ -17,11 +17,19 @@ Actualmente estoy formándome en ciencia de datos, con foco en:
 
 ---
 
+## 📚 Fundamento Matemáticos
+
+- Análisis multivariable
+- Álgebra linear
+- Probabilidad y Estadística
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** Python, R, SQL, Bash (Linux)
 - **Librerías:** pandas, polars, numpy, scikit-learn, matplotlib, seaborn, tidyverse  
-- **Herramientas:** Jupyter Notebook, Marimo notebook, Git, GitHub  
+- **Herramientas:** Jupyter notebook, Marimo notebook, Git, GitHub  
 
 ---
 
