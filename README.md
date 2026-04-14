@@ -35,5 +35,5 @@ Actualmente estoy formándome en ciencia de datos, con foco en:
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/vito-di-gregorio-896337278/https://www.linkedin.com/in/vito-di-gregorio-896337278/
+- LinkedIn: https://www.linkedin.com/in/vito-dg/
 - Email: vitodigregorio5@gmail.com
